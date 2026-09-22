@@ -1,7 +1,5 @@
 # Telemeter
 
-![Telemeter](docs/hero.jpg)
-
 Measure how far a storm or a cannon is from the delay between **light** and **sound**.
 
 Light arrives almost instantly. Sound does not: at 20 °C it travels at about **343 m/s** (roughly 3 seconds per kilometre). The app times the gap between the two events and computes:
